@@ -1,6 +1,6 @@
 # MINI_BLOG
-Projeto Academico
 
+Projeto Academico
 
 # Getting Started with Create React App
 
